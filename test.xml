@@ -29,6 +29,7 @@
             </mso:tab>
             <mso:tab idQ="mso:TabAddIns" visible="false"/>
             <mso:tab idQ="mso:HelpTab" visible="false"/>
+            <!-- 以下三个是标签页 -->
             <mso:tab id="mso_c1.168526E8" label="文本" insertBeforeQ="x2:Tab">
                 <mso:group id="mso_c2.168526E8" label="全局设置​​" imageMso="OpenStartPage" autoScale="true">
                     <mso:button idQ="x3:全文页边距和页眉_0_1695A05F" label="全文页边距页眉" imageMso="OpenStartPage" onAction="全文页边距和页眉" visible="true"/>
